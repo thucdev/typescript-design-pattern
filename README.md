@@ -1,1 +1,12 @@
-# typescript-design-pattern
+- Strategy
+- Observer
+- Simple Factory
+- Factory Method
+- Abstract Factory
+- Adapter
+- Facade
+- Proxy
+- Command
+- Iterator
+- Singleton
+- Composite

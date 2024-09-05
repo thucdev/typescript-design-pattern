@@ -10,3 +10,5 @@
 - Iterator
 - Singleton
 - Composite
+- Template method
+- Builder
